@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.SearchBox{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 10px;
+}
